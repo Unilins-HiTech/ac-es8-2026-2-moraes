@@ -1,6 +1,5 @@
 # Aula 1 — Cadastro de Pacientes no Navegador
 
-**Disciplina:** Programação de Scripts I — Backend
 **Módulo:** Fundamentos (Vanilla JavaScript)
 **Pré-requisitos dos alunos:** HTML, CSS e JavaScript básico
 
